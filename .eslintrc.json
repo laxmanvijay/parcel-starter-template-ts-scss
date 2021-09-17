@@ -12,9 +12,7 @@
         "sourceType": "module"
     },
     "plugins": [
-        "@typescript-eslint",
-        "plugin:@typescript-eslint/eslint-recommended",
-        "plugin:@typescript-eslint/recommended"
+        "@typescript-eslint"
     ],
     "rules": {
         "import/prefer-default-export": 0,
