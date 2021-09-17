@@ -7,6 +7,7 @@
     "start": "parcel ./src/index.html -d build --open",
     "build": "parcel build ./src/index.html -d dist --no-source-maps",
     "test": "jest",
+    "coverage": "jest --coverage",
     "lint": "eslint"
   },
   "author": "",
