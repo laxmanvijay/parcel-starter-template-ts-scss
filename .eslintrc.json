@@ -12,7 +12,8 @@
         "sourceType": "module"
     },
     "plugins": [
-        "@typescript-eslint"
+        "@typescript-eslint",
+        "plugin:import/typescript"
     ],
     "rules": {
     }
