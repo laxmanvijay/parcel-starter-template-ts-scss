@@ -6,6 +6,6 @@ describe('Tests index', () => {
   it('says hello', async () => {
     const hello = sayHello2();
 
-    expect(hello).toContain("hello")
+    expect(hello).toContain('hello');
   });
 });
